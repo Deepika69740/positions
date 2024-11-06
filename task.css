@@ -1,0 +1,21 @@
+.a{
+    margin-left: 0px;
+    display: flex;
+    background-color: gold;
+    width: 100vw;
+    height: 50px;
+    justify-content: space-around;
+    position: fixed;
+    align-content: center;
+
+    
+}
+.b{
+    align-content: center;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+*{
+    margin-top: 0px;
+}

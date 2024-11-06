@@ -1,0 +1,30 @@
+.f{
+    display: flex;
+}
+.a{
+    position: relative;
+    margin-left: 200px;
+    top: 47px;
+      
+}
+.b{
+    position: relative;
+    margin-left: 100px;
+    top: 47px;
+    
+}
+.c{
+    position: relative;
+    top: 250px;
+    margin-left: -300px;
+}
+.d{
+    position: relative;
+    top: 150px;
+    margin-left: 5px;
+}
+.e{
+    position: relative;
+    top: 253px;
+}
+
